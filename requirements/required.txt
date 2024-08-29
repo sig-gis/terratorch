@@ -17,3 +17,9 @@ ftfy
 regex
 openmim
 #mim mmsegmentation
+# Extra dependencies for analysis, etc.
+# pandas
+# numpy
+# matplotlib
+# seaborn
+vit-pytorch
